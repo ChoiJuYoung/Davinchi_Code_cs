@@ -1,0 +1,11 @@
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\bin\Release\Davinchi Code.exe.config
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\bin\Release\Davinchi Code.exe
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\bin\Release\Davinchi Code.pdb
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Release\Davinchi_Code.FrmMain.resources
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Release\Davinchi_Code.FrmGame.resources
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Release\Davinchi_Code.FrmPick.resources
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Release\Davinchi_Code.Properties.Resources.resources
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Release\Davinchi Code.csproj.GenerateResource.Cache
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Release\Davinchi Code.exe
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Release\Davinchi Code.pdb
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Release\Davinchi Code.csprojResolveAssemblyReference.cache

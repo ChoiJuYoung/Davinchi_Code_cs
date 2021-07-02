@@ -1,0 +1,22 @@
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\bin\Debug\Davinchi Code.exe.config
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\bin\Debug\Davinchi Code.exe
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\bin\Debug\Davinchi Code.pdb
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Debug\Davinchi_Code.FrmMain.resources
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Debug\Davinchi_Code.FrmGame.resources
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Debug\Davinchi_Code.FrmPick.resources
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Debug\Davinchi_Code.Properties.Resources.resources
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Debug\Davinchi Code.csproj.GenerateResource.Cache
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Debug\Davinchi Code.exe
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Debug\Davinchi Code.pdb
+C:\Users\mr.gong\Desktop\Davinchi Code\Davinchi Code\obj\Debug\Davinchi Code.csprojResolveAssemblyReference.cache
+D:\프로그래밍\C#\Davinchi Code\Davinchi Code\bin\Debug\Davinchi Code.exe.config
+D:\프로그래밍\C#\Davinchi Code\Davinchi Code\obj\Debug\Davinchi Code.exe
+D:\프로그래밍\C#\Davinchi Code\Davinchi Code\obj\Debug\Davinchi Code.pdb
+D:\프로그래밍\C#\Davinchi Code\Davinchi Code\bin\Debug\Davinchi Code.exe
+D:\프로그래밍\C#\Davinchi Code\Davinchi Code\bin\Debug\Davinchi Code.pdb
+D:\프로그래밍\C#\Davinchi Code\Davinchi Code\obj\Debug\Davinchi Code.csprojResolveAssemblyReference.cache
+D:\프로그래밍\C#\Davinchi Code\Davinchi Code\obj\Debug\Davinchi_Code.FrmMain.resources
+D:\프로그래밍\C#\Davinchi Code\Davinchi Code\obj\Debug\Davinchi_Code.FrmGame.resources
+D:\프로그래밍\C#\Davinchi Code\Davinchi Code\obj\Debug\Davinchi_Code.FrmPick.resources
+D:\프로그래밍\C#\Davinchi Code\Davinchi Code\obj\Debug\Davinchi_Code.Properties.Resources.resources
+D:\프로그래밍\C#\Davinchi Code\Davinchi Code\obj\Debug\Davinchi Code.csproj.GenerateResource.Cache
